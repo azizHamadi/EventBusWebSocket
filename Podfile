@@ -6,7 +6,6 @@ target 'EventBusWebSocket' do
   use_frameworks!
   pod 'PromisesSwift'
   pod 'SwiftyJSON'
-  pod 'Alamofire', '~> 5.0.0-beta.7'
   pod 'BlueSocket'
   # Pods for EventBusWebSocket
 
