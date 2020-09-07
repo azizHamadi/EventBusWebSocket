@@ -1,0 +1,6 @@
+framework module Pods_EventBusWebSocket_EventBusWebSocketTests {
+  umbrella header "Pods-EventBusWebSocket-EventBusWebSocketTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
