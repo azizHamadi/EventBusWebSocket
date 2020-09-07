@@ -4,9 +4,9 @@
 target 'EventBusWebSocket' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-  pod 'PromisesSwift'
-  pod 'SwiftyJSON'
-  pod 'BlueSocket'
+  pod 'PromisesSwift', '~> 1.2.10'
+  pod 'SwiftyJSON', '~> 5.0.0'
+  pod 'BlueSocket', '~> 1.0.52'
   # Pods for EventBusWebSocket
 
   target 'EventBusWebSocketTests' do

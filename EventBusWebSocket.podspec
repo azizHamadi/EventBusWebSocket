@@ -133,7 +133,6 @@ Pod::Spec.new do |spec|
   spec.dependency "PromisesSwift", "~> 1.2.10"
   spec.dependency "BlueSocket", "~> 1.0.52"
   spec.dependency "SwiftyJSON", "~> 5.0.0"
-  spec.dependency "Alamofire", "~> 5.0.0-beta.7"
 
   spec.swift_version = "5"
 

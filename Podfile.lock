@@ -6,9 +6,9 @@ PODS:
   - SwiftyJSON (5.0.0)
 
 DEPENDENCIES:
-  - BlueSocket
-  - PromisesSwift
-  - SwiftyJSON
+  - BlueSocket (~> 1.0.52)
+  - PromisesSwift (~> 1.2.10)
+  - SwiftyJSON (~> 5.0.0)
 
 SPEC REPOS:
   trunk:
@@ -23,6 +23,6 @@ SPEC CHECKSUMS:
   PromisesSwift: ce4c7602f91a6bfc8732039f1bc1a3fcded1a302
   SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
 
-PODFILE CHECKSUM: 24d10f1788206371d75c493ce9a55444c005de47
+PODFILE CHECKSUM: 46748b33d5c8aeaa09c22436f127a1c643eab67e
 
 COCOAPODS: 1.9.3
