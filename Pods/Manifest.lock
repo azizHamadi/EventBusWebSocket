@@ -6,23 +6,27 @@ PODS:
   - SwiftyJSON (5.0.0)
 
 DEPENDENCIES:
-  - BlueSocket (~> 1.0.52)
+  - BlueSocket (from `/Users/aziz/.cocoapods/repos/master/Specs/9/c/5/BlueSocket/1.0.52`)
   - PromisesSwift (~> 1.2.10)
-  - SwiftyJSON (~> 5.0.0)
+  - SwiftyJSON (from `/Users/aziz/.cocoapods/repos/master/Specs/b/e/4/SwiftyJSON/5.0.0`)
 
 SPEC REPOS:
   trunk:
-    - BlueSocket
     - PromisesObjC
     - PromisesSwift
-    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  BlueSocket:
+    :path: "/Users/aziz/.cocoapods/repos/master/Specs/9/c/5/BlueSocket/1.0.52"
+  SwiftyJSON:
+    :path: "/Users/aziz/.cocoapods/repos/master/Specs/b/e/4/SwiftyJSON/5.0.0"
 
 SPEC CHECKSUMS:
   BlueSocket: 1acd943acb07b55905291d608649fcfbf8cbd57d
   PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
   PromisesSwift: ce4c7602f91a6bfc8732039f1bc1a3fcded1a302
-  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyJSON: d121ccc6c3b23b9d3b3d9b41b474c742babfa2bb
 
-PODFILE CHECKSUM: 46748b33d5c8aeaa09c22436f127a1c643eab67e
+PODFILE CHECKSUM: a18050c07c1830cf1ba9c71f81895de7bab36d06
 
 COCOAPODS: 1.9.3

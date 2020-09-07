@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "EventBusWebSocket"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "EventBusWebSocket is a sockJs for swift."
 
   # This description is used to generate tags and improve search results.
